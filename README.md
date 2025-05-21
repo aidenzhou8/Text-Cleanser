@@ -1,5 +1,5 @@
 # Text-Cleanser
-2 Python scripts that use spaCy and Beautiful Soup to divide and cleanse large text files
+2 Python scripts that use spaCy and Beautiful Soup to divide and cleanse large text files. 
 
 Given a text file that aggregates articles, blog posts, short stories, etc., **separate_articles.py** separates these into individual files (titled Article 1, 2,...) in a user-specified directory. The script also does a basic cleanse of the text file, deleting metadata such as HTML tags, URLs, and PHP/JSON strings. 
 
