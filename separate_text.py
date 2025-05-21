@@ -7,7 +7,8 @@ import html
 import argparse
 from tqdm import tqdm
 
-# Load English NLP model
+# First download English NLP model using
+# python -m spacy download en_core_web_sm
 nlp = spacy.load('en_core_web_sm')
 
 def is_valid_sentence(sentence):
