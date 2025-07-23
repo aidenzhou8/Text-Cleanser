@@ -1,4 +1,4 @@
-# Text Processing Toolkit
+# Text Cleansing Toolkit
 
 This toolkit provides two Python scripts for processing and cleaning arbitrary text files with undesirable HTML content and metadata.
 
