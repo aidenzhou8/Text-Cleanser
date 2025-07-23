@@ -1,6 +1,6 @@
 # Text Cleansing Toolkit
 
-This toolkit provides two Python scripts for processing arbitrary text files with undesirable HTML content and metadata.
+This toolkit provides two Python scripts for processing large text files with undesirable HTML content and metadata.
 
 ## Scripts
 
