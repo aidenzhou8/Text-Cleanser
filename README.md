@@ -5,4 +5,4 @@ Given a text file that aggregates articles, blog posts, short stories, etc., **s
 
 But this cleanse is often not thorough enough to delete ALL undesirable metadata. If that's the case, or if you just want to tidy up a single block of text, **cleantext.py** does so effectively, filtering out metadata, invalid sentences, etc.  
 
-These scripts were tested on text files of size 100 MB+, with over 10,000,000 words. 
+These scripts were tested on several gigabytes of plain text. 
